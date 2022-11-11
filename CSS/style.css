@@ -1,0 +1,36 @@
+.container{
+    background-color:  navajowhite;
+    padding: 10px;
+    border: 25px;
+    margin: 30px;
+}
+
+#body{
+    background-color: lightpink;
+}
+
+.heading{
+    color: darkolivegreen;
+}
+
+#heading2{
+    color:aquamarine;
+}
+
+.ol-lists{
+    padding: 5px;
+    border: 10px;
+}
+
+#ol-lists2{
+    color: brown;
+}
+
+.lists{
+    font-weight:bold;
+}
+
+#ul-lists{
+    padding:5px;
+    border:10px;
+}
